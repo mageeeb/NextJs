@@ -17,3 +17,14 @@
     background: antiquewhite;
     border-radius: 10px;
 }
+.todolist{
+    background: aliceblue;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.button{
+    background: red;
+    border-radius: 10px;
+}
